@@ -30,7 +30,7 @@ Build out this bar chart component from scratch. A  local `data.json` is provide
 
 ### Links
 
-- Solution URL: [repository](https://github.com/zlatozaraZlatkova/single-column-coming-soon-page](https://github.com/zlatozaraZlatkova/expenses-chart-component)
+- Solution URL: [repository](https://github.com/zlatozaraZlatkova/expenses-chart-component)
 - visit website [app](https://bar-chart-component.netlify.app/)
 
 
