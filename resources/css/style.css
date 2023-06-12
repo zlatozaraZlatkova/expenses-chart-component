@@ -27,6 +27,8 @@ body {
   font-size: 1.1rem;
   background-color: var(--cream);
   color: var(--dark-brown);
+  height: 100%;
+  width: 100%;
 
 }
 
@@ -104,7 +106,8 @@ h2 {
   height: 180px;
   display: flex;
   justify-content: space-between;
-  margin: 10px;
+  column-gap: 0.2rem;
+
 }
 
 .column-container {
@@ -182,7 +185,14 @@ h2 {
 
 .deviation-data {
   text-align: right;
+  
 }
+.deviation-data h2 {
+  font-size: 1.3rem;
+  color: var(--dark-brown);
+}
+
+
 
 .deviation-data h2 {
   font-size: 1.3rem;
@@ -214,13 +224,8 @@ h2 {
 
 /*Media Query*/
 
-@media only screen and (max-width: 480px) {
-  .container-cards {
-    width: 280px;
-    margin: 10px;
-  }
-
-
+@media (max-width: 480px) {
+ 
   .week-data h1 {
     font-size: 1.1rem;
   }
