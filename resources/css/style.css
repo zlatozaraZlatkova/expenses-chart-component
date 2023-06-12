@@ -184,6 +184,12 @@ h2 {
   text-align: right;
 }
 
+.deviation-data h2 {
+  font-size: 1.3rem;
+  color: var(--dark-brown);
+}
+
+
 /* Footer*/
 
 .attribution {
