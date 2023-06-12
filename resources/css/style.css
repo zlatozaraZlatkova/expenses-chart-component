@@ -124,7 +124,7 @@ h2 {
 }
 
 .column-container .column {
-  width: clamp(26px, 8.6vw, 37px);
+  width: clamp(26px, 8.6vw, 45px);
   background-color: var(--soft-red);
   border-radius: 5px;
   position: relative;
