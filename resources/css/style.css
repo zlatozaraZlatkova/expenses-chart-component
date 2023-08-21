@@ -193,35 +193,10 @@ h2 {
   color: var(--dark-brown);
 }
 
-
-
 .deviation-data h2 {
   font-size: 1.3rem;
   color: var(--dark-brown);
 }
-
-
-/* Footer*/
-
-.attribution {
-  font-size: 0.6875em;
-  text-align: center;
-  color: var(--dark-brown);
-}
-
-.attribution a {
-  color: var(--dark-brown);
-  text-decoration: none;
-}
-
-.attribution a:hover {
-  cursor: pointer;
-  color: var(--soft-red);
-
-}
-
-/* Media*/
-
 
 /*Media Query*/
 
